@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="images/banner.png" width="100%" alt="banner">
+</p>
+
+<p align="center">
   <h1 align="center">Emotion-Based Music Recommendation Chatbot</h1>
 </p>
 
