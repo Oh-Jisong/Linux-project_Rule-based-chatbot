@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  PHP · Docker · MariaDB · Chart.js 기반 감정 분석 음악 추천 웹 서비스
+  PHP · Docker · MariaDB · Chart.js 감정 분석 음악 추천 웹 서비스
 </p>
 
 <p align="center">
